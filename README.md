@@ -1,3 +1,7 @@
+> **Note**
+> This fork is used for [GISNav](https://github.com/hmakelin/gisnav.git) development. Please see the 
+> [comparison page](https://github.com/khancyr/ardupilot_gazebo/compare/master...hmakelin:ardupilot_gazebo:master) for differences to the original.
+
 # Ardupilot Gazebo plugin 
 
 ## Requirements :
