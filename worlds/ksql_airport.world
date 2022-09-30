@@ -49,6 +49,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
     </include>
 
     <include>
+      <pose>0 0 -3.4 0 0 -1.57079632679</pose>
       <uri>model://ksql_airport</uri>
     </include>
 
